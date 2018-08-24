@@ -12,5 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 cache=True : lets you cache unchaged code and will not recompute
 c
 
-
+lets see if this fuckin works
 
